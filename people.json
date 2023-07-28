@@ -1,0 +1,162 @@
+[
+  {
+    "gender": "M",
+    "firstName": "John",
+    "lastName": "Williams",
+    "age": 86,
+    "phoneNumber": "+18026539657",
+    "email": "john.williams@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "David",
+    "lastName": "Williams",
+    "age": 46,
+    "phoneNumber": "+13820228908",
+    "email": "david.williams@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Jennifer",
+    "lastName": "Brown",
+    "age": 52,
+    "phoneNumber": "+19686525032",
+    "email": "jennifer.brown@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Robert",
+    "lastName": "Williams",
+    "age": 47,
+    "phoneNumber": "+15163603594",
+    "email": "robert.williams@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "David",
+    "lastName": "Jones",
+    "age": 96,
+    "phoneNumber": "+13265052422",
+    "email": "david.jones@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "John",
+    "lastName": "Johnson",
+    "age": 81,
+    "phoneNumber": "+11305043322",
+    "email": "john.johnson@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Michael",
+    "lastName": "Williams",
+    "age": 54,
+    "phoneNumber": "+19616429747",
+    "email": "michael.williams@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Emily",
+    "lastName": "Smith",
+    "age": 85,
+    "phoneNumber": "+19385076777",
+    "email": "emily.smith@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "John",
+    "lastName": "Brown",
+    "age": 90,
+    "phoneNumber": "+16113870988",
+    "email": "john.brown@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Michael",
+    "lastName": "Jones",
+    "age": 33,
+    "phoneNumber": "+12583856138",
+    "email": "michael.jones@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "David",
+    "lastName": "Brown",
+    "age": 39,
+    "phoneNumber": "+19593574360",
+    "email": "david.brown@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Mary",
+    "lastName": "Smith",
+    "age": 88,
+    "phoneNumber": "+13324766983",
+    "email": "mary.smith@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Jennifer",
+    "lastName": "Smith",
+    "age": 67,
+    "phoneNumber": "+16264845424",
+    "email": "jennifer.smith@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Emma",
+    "lastName": "Brown",
+    "age": 79,
+    "phoneNumber": "+19903771363",
+    "email": "emma.brown@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "James",
+    "lastName": "Brown",
+    "age": 40,
+    "phoneNumber": "+10988396384",
+    "email": "james.brown@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Emma",
+    "lastName": "Brown",
+    "age": 41,
+    "phoneNumber": "+12776106167",
+    "email": "emma.brown@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Linda",
+    "lastName": "Johnson",
+    "age": 86,
+    "phoneNumber": "+12201890645",
+    "email": "linda.johnson@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Michael",
+    "lastName": "Smith",
+    "age": 32,
+    "phoneNumber": "+16748361095",
+    "email": "michael.smith@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Emily",
+    "lastName": "Brown",
+    "age": 91,
+    "phoneNumber": "+16561338715",
+    "email": "emily.brown@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "age": 60,
+    "phoneNumber": "+14333556504",
+    "email": "michael.johnson@gmail.com"
+  }
+]
